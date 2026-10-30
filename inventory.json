@@ -1,0 +1,184 @@
+{
+  "products": [
+    {
+      "id": 1001,
+      "name": "Straight Cut French Fries",
+      "quantity": 340,
+      "location": "A-01"
+    },
+    {
+      "id": 1002,
+      "name": "Crinkle Cut French Fries",
+      "quantity": 225,
+      "location": "A-02"
+    },
+    {
+      "id": 1003,
+      "name": "Shoestring Fries",
+      "quantity": 510,
+      "location": "A-03"
+    },
+    {
+      "id": 1004,
+      "name": "Extra Crispy Straight Cut Fries",
+      "quantity": 175,
+      "location": "A-04"
+    },
+    {
+      "id": 1005,
+      "name": "Extra Crispy Crinkle Cut Fries",
+      "quantity": 98,
+      "location": "A-05"
+    },
+    {
+      "id": 1006,
+      "name": "Spicy Battered Fries",
+      "quantity": 74,
+      "location": "A-06"
+    },
+    {
+      "id": 1007,
+      "name": "Beer Battered Fries",
+      "quantity": 42,
+      "location": "B-01"
+    },
+    {
+      "id": 1008,
+      "name": "Waffle Fries",
+      "quantity": 130,
+      "location": "B-02"
+    },
+    {
+      "id": 1009,
+      "name": "Sweet Potato Fries",
+      "quantity": 260,
+      "location": "B-03"
+    },
+    {
+      "id": 1010,
+      "name": "Sweet Potato Crinkle Fries",
+      "quantity": 18,
+      "location": "B-04"
+    },
+    {
+      "id": 1011,
+      "name": "Savoury Potato Wedges",
+      "quantity": 145,
+      "location": "B-05"
+    },
+    {
+      "id": 1012,
+      "name": "Rosemary Garlic Fries",
+      "quantity": 63,
+      "location": "B-06"
+    },
+    {
+      "id": 1013,
+      "name": "SuperSpirals",
+      "quantity": 110,
+      "location": "C-01"
+    },
+    {
+      "id": 1014,
+      "name": "Smiles",
+      "quantity": 205,
+      "location": "C-02"
+    },
+    {
+      "id": 1015,
+      "name": "Tasti Taters",
+      "quantity": 370,
+      "location": "C-03"
+    },
+    {
+      "id": 1016,
+      "name": "Original Potato Patties",
+      "quantity": 440,
+      "location": "C-04"
+    },
+    {
+      "id": 1017,
+      "name": "Shredded Hashbrowns",
+      "quantity": 290,
+      "location": "C-05"
+    },
+    {
+      "id": 1018,
+      "name": "Diced Hashbrowns",
+      "quantity": 185,
+      "location": "C-06"
+    },
+    {
+      "id": 1019,
+      "name": "Homefries",
+      "quantity": 85,
+      "location": "D-01"
+    },
+    {
+      "id": 1020,
+      "name": "Savoury Homefries",
+      "quantity": 33,
+      "location": "D-02"
+    },
+    {
+      "id": 1021,
+      "name": "Potato Pancakes",
+      "quantity": 58,
+      "location": "D-03"
+    },
+    {
+      "id": 1022,
+      "name": "Onion Potato Patties",
+      "quantity": 21,
+      "location": "D-04"
+    },
+    {
+      "id": 1023,
+      "name": "Savoury Herb Potato Patties",
+      "quantity": 12,
+      "location": "D-05"
+    },
+    {
+      "id": 1024,
+      "name": "Extra Crispy Onion Rings",
+      "quantity": 155,
+      "location": "D-06"
+    },
+    {
+      "id": 1025,
+      "name": "Mozzarella Sticks",
+      "quantity": 47,
+      "location": "E-01"
+    },
+    {
+      "id": 1026,
+      "name": "Breaded Mushrooms",
+      "quantity": 9,
+      "location": "E-02"
+    },
+    {
+      "id": 1027,
+      "name": "Chili Garlic Potato Bites",
+      "quantity": 67,
+      "location": "E-03"
+    },
+    {
+      "id": 1028,
+      "name": "Masala Fries",
+      "quantity": 0,
+      "location": "E-04"
+    },
+    {
+      "id": 1029,
+      "name": "Tater Crisps",
+      "quantity": 310,
+      "location": "E-05"
+    },
+    {
+      "id": 1030,
+      "name": "Thin Crisps",
+      "quantity": 6,
+      "location": "E-06"
+    }
+  ]
+}
